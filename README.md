@@ -1,2 +1,2 @@
 # AI-Enabled-Smart-Agriculture-System
-Utilizing a number of supervised deep learning convolutional neural network models/architectures to analyze crop images and identify disease patterns and compare between the accuracies of the models/architectures.
+Utilized a number of supervised deep learning convolutional neural network models/architectures to analyze images and identify disease patterns of crops and compare between the accuracies of the models/architectures.
